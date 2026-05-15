@@ -33,7 +33,7 @@ A professional, production-ready backend service built with **NestJS** and **Mon
 
 ## 📸 API Documentation Preview
 
-![Swagger UI Screenshot](https://raw.githubusercontent.com/BismaAbbasi/nestjs-users-api/main/screenshot.png)
+![Swagger UI Screenshot](‎assets/Users-Api-Swagger.jpg‎)
 > *I have integrated Swagger to ensure that any developer can easily understand and test the API endpoints directly from the browser.*
 
 ---
